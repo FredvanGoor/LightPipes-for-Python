@@ -1,5 +1,7 @@
 #LightPipes for Python
 
+###Note: This repository is obsolete and is not maintained anymore. It will be deleted in the future. A new repository for LightPipes for Python has been made. Please go to: [https://github.com/opticspy/lightpipes](https://github.com/opticspy/lightpipes) and to our website: [https://opticspy.github.io/lightpipes/](https://opticspy.github.io/lightpipes/).
+
 
 ###Simulations of optical phenomena where diffraction is essential
 
